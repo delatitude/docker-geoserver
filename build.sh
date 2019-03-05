@@ -4,7 +4,7 @@
 # This represents the version we need GeoServer to move up to. ie the latest stable version.
 # Change this to reflect changes
 BUGFIX=0
-MINOR=14
+MINOR=15
 MAJOR=2
 
 #Represents the current version defined in the Dockerfile and used in the setup script
